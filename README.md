@@ -14,3 +14,7 @@ We are creating a set of NFTs (Non-Fungible Tokens) using the proper ERC Standar
 
 ## What Is a Non-Fungible Token (NFT)?
 Non-fungible tokens (NFTs) are cryptographic assets on a blockchain with unique identification codes and metadata that distinguish them from each other. Unlike cryptocurrencies, they cannot be traded or exchanged at equivalency. This differs from fungible tokens like cryptocurrencies, which are identical to each other and, therefore, can serve as a medium for commercial transactions. ([Investopedia](https://www.investopedia.com/non-fungible-tokens-nft-5115211))
+
+## Usage & Installation
+As mentioned previously we are coding our smart contracts using the Remix IDE, we are using Solidity version 0.8.0 and importing the OpenZeppelin contracts.
+[![Screenshot-23.png](https://i.postimg.cc/ydsh4R0k/Screenshot-23.png)](https://postimg.cc/4K2HpmLg)
