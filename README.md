@@ -1,6 +1,13 @@
 # NFT Collection
 This is the 3rd and final project from our SMU Fintech Bootcamp. Enjoy!
-[![nft-2021.jpg](https://i.postimg.cc/XYd9rXv4/nft-2021.jpg)](https://postimg.cc/sMfM8jSN)
+
+<p align="center">
+  <img 
+    width="700"
+    height="337"
+    src="https://i.postimg.cc/XYd9rXv4/nft-2021.jpg)](https://postimg.cc/sMfM8jSN"
+  >
+</p>
 
 ## What We're Creating
 We are creating a set of NFTs (Non-Fungible Tokens) using the proper ERC Standards. Our NFT Collection will be based on smart contracts that we will code ourselves using the Remix IDE and Solidity programming language. The NFTs will contain a set of 3 randomized words and each one will of course be unique. We chose this as our project to showcase our understanding of Solidity, Smart Contracts and working with the blockchain in general. 
