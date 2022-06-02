@@ -17,4 +17,5 @@ Non-fungible tokens (NFTs) are cryptographic assets on a blockchain with unique 
 
 ## Usage & Installation
 As mentioned previously we are coding our smart contracts using the Remix IDE, we are using Solidity version 0.8.0 and importing the OpenZeppelin contracts.
+
 [![Screenshot-23.png](https://i.postimg.cc/ydsh4R0k/Screenshot-23.png)](https://postimg.cc/4K2HpmLg)
