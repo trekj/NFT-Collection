@@ -3,8 +3,8 @@ This is the 3rd and final project from our SMU Fintech Bootcamp. Enjoy!
 
 <p align="center">
   <img 
-    width="800"
-    height="400"
+    width="845"
+    height="475"
     src="https://i.postimg.cc/XYd9rXv4/nft-2021.jpg)](https://postimg.cc/sMfM8jSN"
   >
 </p>
