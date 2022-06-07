@@ -1,4 +1,4 @@
-# NFT Collection
+# NBAFT
 This is the 3rd and final project from our SMU Fintech Bootcamp. Enjoy!
 
 <p align="center">
@@ -10,7 +10,7 @@ This is the 3rd and final project from our SMU Fintech Bootcamp. Enjoy!
 </p>
 
 ## What We're Creating
-We are creating a set of NFTs (Non-Fungible Tokens) using the proper ERC Standards. Our NFT Collection will be based on smart contracts that we will code ourselves using the Remix IDE and Solidity programming language. The NFTs will contain a set of 3 randomized words and each one will of course be unique. We chose this as our project to showcase our understanding of Solidity, Smart Contracts and working with the blockchain in general. 
+We are creating a set of NFTs (Non-Fungible Tokens) using the proper ERC Standards. Our NFT Collection will be based on smart contracts that we will code ourselves using the Remix IDE and Solidity programming language. The NFTs will contain a set of 3 randomized NBA player names and each one will of course be unique. We chose this as our project to showcase our understanding of Solidity, Smart Contracts and working with the blockchain in general. 
 
 ## What Is a Non-Fungible Token (NFT)?
 Non-fungible tokens (NFTs) are cryptographic assets on a blockchain with unique identification codes and metadata that distinguish them from each other. Unlike cryptocurrencies, they cannot be traded or exchanged at equivalency. This differs from fungible tokens like cryptocurrencies, which are identical to each other and, therefore, can serve as a medium for commercial transactions. ([Investopedia](https://www.investopedia.com/non-fungible-tokens-nft-5115211))
@@ -21,7 +21,7 @@ As mentioned previously we are coding our smart contracts using the Remix IDE, w
 [![Screenshot-23.png](https://i.postimg.cc/ydsh4R0k/Screenshot-23.png)](https://postimg.cc/4K2HpmLg)
 
 ## Creating the SVG
-When the NFT is minted it will be an svg image consisting of 3 randomized words, no minted NFT will be exactly identical to another, we can accomplish this by using following code in our smart contract
+When the NFT is minted it will be an svg image consisting of 3 NBA player names, no minted NFT will be exactly identical to another, we can accomplish this by using following code in our smart contract
 
 
 
