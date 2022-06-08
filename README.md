@@ -29,7 +29,9 @@ When the NFT is minted it will be an svg image consisting of 3 NBA player names,
 
 
 ## Minting the NFT
-What is minting you ask? When you mint an NFT you are basically recording its data onto the blockchain. This way everyone can see that this NFT belongs to you and you only. Since it is now on the blockchain no one can steal or edit your NFT, it will always be yours until you sell or transfer it to another party. You can watch the minting process in action in this short [YouTube](https://www.youtube.com/watch?v=UE1PfLgv33w) video we've created.
+What is minting you ask? When you mint an NFT you are basically recording its data onto the blockchain. This way everyone can see that this NFT belongs to you and you only. Since it is now on the blockchain no one can steal or edit your NFT, it will always be yours until you sell or transfer it to another party. You can watch the minting process in action in this short GIF we've created
+
+![MintGIF](https://media.giphy.com/media/5KOsmQayTollouqSKv/giphy.gif)
 
 
 ## Deploying the Contract
