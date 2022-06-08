@@ -24,19 +24,24 @@ As mentioned previously we are coding our smart contracts using the Remix IDE, w
 ## Creating the SVG
 When the NFT is minted it will be an svg image consisting of 3 NBA player names, no minted NFT will be exactly identical to another, we can accomplish this by using following code in our smart contract
 
+[![Screenshot-25.png](https://i.postimg.cc/9fhtxJ6K/Screenshot-25.png)](https://postimg.cc/Jspk0c45)
+
 
 
 ## Minting the NFT
-What is minting you ask? When you mint an NFT you are basically recording its data onto the blockchain. This way everyone can see that this NFT belongs to you and you only. Since it is now on the blockchain no one can steal or edit your NFT, it will always be yours until you sell or transfer it to another party. We can mint our NFT by using the following code in our smart contract
-
+What is minting you ask? When you mint an NFT you are basically recording its data onto the blockchain. This way everyone can see that this NFT belongs to you and you only. Since it is now on the blockchain no one can steal or edit your NFT, it will always be yours until you sell or transfer it to another party. You can watch the minting process in action in this short [YouTube](https://www.youtube.com/watch?v=UE1PfLgv33w) video we've created.
 
 
 ## Deploying the Contract
 Now we must deploy our contract to make sure it does what we told it to, which is mint our NFT. Using the Remix IDE we can deploy our smart contract to the testnet and begin minting NFTs as we please! You can see here that the contract has been succesfully deployed
 
+[![Screen-Shot-2022-06-07-at-6-34-17-PM.png](https://i.postimg.cc/DwZSdDyB/Screen-Shot-2022-06-07-at-6-34-17-PM.png)](https://postimg.cc/XpRNns5C)
+
 
 ## The Final Product
-After successfully coding and deploying our contract to the testnet we can mint our first NFT, and *drumroll*...here it is! Our first minted NFT
+After successfully coding and deploying our contract to the testnet we can mint our first NFT, and *drumroll*...here it is! Our first minted set of NFTs
+
+[![screencapture-testnets-opensea-io-collection-nbaft-2022-06-07-18-31-34.png](https://i.postimg.cc/90Q256kk/screencapture-testnets-opensea-io-collection-nbaft-2022-06-07-18-31-34.png)](https://postimg.cc/47qqpSsv)
 
 ## Contributors
 [Elgin Braggs](https://github.com/nustalgic)
